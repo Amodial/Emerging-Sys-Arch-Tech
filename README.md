@@ -11,7 +11,6 @@ User Interface: Adding a web-based or mobile interface for remote control and mo
 
 **Tools and Resources Added to Your Support Network**
 
-
 gpiozero for GPIO control.
 
 adafruit_ahtx0 for temperature sensing.
@@ -27,3 +26,4 @@ Debugging and Testing: Systematic debugging and testing practices are essential 
 **Maintainability, Readability, and Adaptability**
 
 Inline comments and a detailed README file ensure the code is understandable and accessible to others.
+Clear state transitions and well-defined button actions ensure the code is readable and maintainable.
