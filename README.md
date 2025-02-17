@@ -6,8 +6,7 @@ The goal of this class is to develop a project with thermostat control system us
 Hardware-Software Integration: Successfully interfaced with multiple hardware components (sensor, LEDs, buttons, LCD) using Python libraries like gpiozero and adafruit_character_lcd.
 
 **Where Could You Improve?**
-
-  User Interface: Adding a web-based or mobile interface for remote control and monitoring would enhance usability.
+User Interface: Adding a web-based or mobile interface for remote control and monitoring would enhance usability.
 
 **Tools and Resources Added to Your Support Network**
 
