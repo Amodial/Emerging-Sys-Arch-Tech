@@ -7,7 +7,7 @@ Hardware-Software Integration: Successfully interfaced with multiple hardware co
 
 **Where Could You Improve?**
 
-User Interface: Adding a web-based or mobile interface for remote control and monitoring would enhance usability.
+  User Interface: Adding a web-based or mobile interface for remote control and monitoring would enhance usability.
 
 **Tools and Resources Added to Your Support Network**
 
